@@ -1,11 +1,10 @@
 Rosemary Adams
-a8
+assignment 8
 
 My shiny page has 3 widgets that control the species being displayed, and the x and y axises respectively. It updates the title and labels based on the user input.
 
-Here is the link:
 
-[mahpage](https://rosemerryberry.shinyapps.io/assignment-8/)
+You can view my beautiful page [here.](https://rosemerryberry.shinyapps.io/assignment-8/)
 
 
 Did you receive any help from others (classmates, etc)? If so, please list who.
